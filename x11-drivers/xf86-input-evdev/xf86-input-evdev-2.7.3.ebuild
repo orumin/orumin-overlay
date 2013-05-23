@@ -20,5 +20,5 @@ src_unpack() {
 src_configure() {
 	cp -r ../${P} ../${P}_build
 	cd ../${P}_build
-	./autogen.sh
+	./autogen.sh --prefix=/usr
 }
