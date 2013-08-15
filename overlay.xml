@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "repositories.dtd">
+<repositories xmlns="" version"1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>orumin-overlay</name>
+        <description>Gentoo's overlay repositorie for myself</description>
+        <source type="git">http://github.com/orumin/orumin-overlay.git</source>
+    </repo>
+</repositories>
