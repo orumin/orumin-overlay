@@ -62,7 +62,7 @@ src_configure() {
 }
 
 src_compile() {
-	cd ${WORKDIR}/acpica-unix-2013117/generate/unix
+	cd ${WORKDIR}/acpica-unix-20130117/generate/unix
 	emake BITS=${BITS}
 }
 
@@ -73,7 +73,7 @@ src_test() {
 }
 
 src_install() {
-	cd ${WORKDIR}/acpica-unix-2013117/generate/unix
+	cd ${WORKDIR}/acpica-unix-20130117/generate/unix
 	emake install DESTDIR="${D}" BITS=${BITS}
 	default_src_install
 	#local bin
