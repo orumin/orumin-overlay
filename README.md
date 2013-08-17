@@ -4,6 +4,10 @@ net-wireless/
 
 > [wpa\_supplicant](http://hostap.epitest.fi/wpa_supplicant)
 
+sys-power
+
+> [iasl](https://acpica.org)
+
 x11-drivers/
 
 > [xf86-input-evdev](http://gitorious.org/at-home-modifier/pages/Home)
