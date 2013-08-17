@@ -63,7 +63,7 @@ src_configure() {
 
 src_compile() {
 	cd ${WORKDIR}/acpica-unix-20130117/generate/unix
-	emake BITS=${BITS}
+	emake #BITS=${BITS}
 }
 
 src_test() {

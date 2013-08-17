@@ -4,6 +4,10 @@ net-wireless/
 
 > [wpa\_supplicant](http://hostap.epitest.fi/wpa_supplicant)
 
+sys-freebsd
+
+> [freebsd-cddl]
+
 sys-power
 
 > [iasl](https://acpica.org)
