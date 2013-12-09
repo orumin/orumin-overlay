@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer>
+		<email>Heather@Cynede.net</email>
+	</maintainer>
+	<longdescription>
+	  Mozilla Rust
+	</longdescription>
+	<use>
+	  <flag name='clang'>
+		clang codegeneration
+	  </flag>
+	  <flag name='heather'>
+		Heather fork
+	  </flag>
+	</use>
+</pkgmetadata>
