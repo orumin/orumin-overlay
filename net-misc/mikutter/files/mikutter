@@ -1,6 +1,0 @@
-#!/bin/bash
-
-EPREFIX=${0%/usr/bin/mikutter}
-
-$EPREFIX/usr/bin/ruby20 $EPREFIX/usr/share/mikutter/mikutter.rb $*
-

@@ -1,4 +1,3 @@
-# orumin's ebuild
+# orumin-overlay
 
-基本的にはFreeBSD向け、
-たまにLinux向けの既存パッケージ改変です
+personaly ebuild collection for Gentoo/Linux
